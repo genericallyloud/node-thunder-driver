@@ -1,4 +1,11 @@
-Prerequisites: 
+
+So this is just a fork of an existing project by Pathikrit Bhowmick that really did most of the work. I just got it up
+to date so that it would work with a current version of node. I have not tested it on anything except for my mac.
+
+
+============================
+
+Prerequisites:
 [usb missile launcher](http://www.dreamcheeky.com/thunder-missile-launcher), 
 [gcc-4.3](http://stackoverflow.com/questions/10480654/std-gnu0xoption-for-macos), 
 [pkg-config](http://manpages.ubuntu.com/manpages/hardy/man1/pkg-config.1.html), 
